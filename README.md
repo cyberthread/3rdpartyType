@@ -5,3 +5,4 @@ In this practice you will implement a 3rd party font from either Google Fonts or
 - Must use relative units
 - The quote and author should be styled differently including the implementation of either a different weight or style
 - Implement at least one media query
+- Make the site live
